@@ -1,4 +1,6 @@
-﻿{padding: 0px;margin: 0px;font-family: inherit;}
+﻿@charset "utf-8";/* CSS Document*//**********
+********通用样式*******/
+*{padding: 0px;margin: 0px;font-family: inherit;}
 html{font-size: 100%;}
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, article, aside, details, dialog, figcaption, figure, footer, header, hgroup, menu, nav, section, summary{margin: 0px;padding: 0px;border: 0px none;font: inherit;vertical-align: baseline;}
 body{font-family: Roboto,Helvetica,Tahoma,Arial,sans-serif,SimSun,"宋体";font-size: 12px;color: #333;}
